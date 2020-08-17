@@ -1,0 +1,142 @@
+.perfil{
+    padding-top: 2%;
+    padding-bottom: 3.25%;
+}
+
+.profile{
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.escolar{
+    padding-bottom: 3.25%;
+}
+
+.education-historic{
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.college{
+    color: #a8a8a8;
+    font-weight: bold;
+}
+
+.course-list{
+    font-style: italic;
+}
+
+.course-description{
+    margin-bottom: 2%;
+}
+
+.curso{
+    padding-bottom: 5%;
+}
+
+.idioma{
+    margin-bottom: 5%;
+}
+
+.courses{
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.institution-title{
+    color: #a8a8a8;
+    font-weight: bold;
+}
+
+.profissional, .office-description{
+    padding-bottom: 4%;
+}
+
+.professional-history{
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.job-title{
+    color: #a8a8a8;
+    font-weight: bold;
+}
+
+.office-title{
+    font-style: italic;
+}
+
+.conhecimento{
+    display: flex;
+    margin-bottom: 3%;
+}
+
+.skills{
+    display: flex;
+    flex-direction: column;
+    width: 55vh;
+}
+
+.skills-title{
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.skills-list{
+    display: flex;
+    flex-direction: row;
+    margin-top: -4%;
+}
+
+.backend-list{
+    display: flex;
+    flex-direction: column;
+}
+
+.backend{
+    color: #a8a8a8;
+    font-weight: bold;
+}
+
+.frontend-list{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+}
+
+.frontend{
+    color: #a8a8a8;
+    font-weight: bold;
+}
+
+.database-list{
+    margin-left: 10%;
+}
+
+.database{
+    color: #a8a8a8;
+    font-weight: bold;
+}
+
+.programas{
+    margin-left: 10%;
+}
+
+.software{
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.right-container{
+    display: flex;
+    flex-direction: column;
+    padding-left: 32%;
+    width: 50%;
+    font-size: 13px;
+}
